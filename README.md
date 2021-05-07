@@ -5,7 +5,7 @@ The pipeline includes an indoor semantic segmentation model, a depth predictor a
 
 ## Images
 ![](./depth.png)
-![](./segmentation.png)
+![](./semantic.png)
 
 ## TO-DO
 Some explanation if more than one person enters in here.
