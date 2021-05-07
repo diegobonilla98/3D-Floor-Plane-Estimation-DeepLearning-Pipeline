@@ -3,5 +3,9 @@ Deep Learning pipeline I was working on to estimate the floor 3D plane using onl
 
 The pipeline includes an indoor semantic segmentation model, a depth predictor and 3D plane regression.
 
+## Images
+![](./depth.png)
+![](./segmentation.png)
+
 ## TO-DO
 Some explanation if more than one person enters in here.
